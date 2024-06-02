@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Data Exercise\C Project\Painter\main.cpp(47,24): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  Painter.vcxproj -> D:\Data Exercise\C Project\Painter\x64\Debug\Painter.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

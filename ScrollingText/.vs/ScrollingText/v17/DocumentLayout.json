@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data Exercise\\C Project\\ScrollingText\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A4BDD2-09EC-4440-BB72-EECF430B3120}|ControlDirection\\ControlDirection.vcxproj|D:\\Data Exercise\\C Project\\ScrollingText\\ControlDirection\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91A4BDD2-09EC-4440-BB72-EECF430B3120}|ControlDirection\\ControlDirection.vcxproj|solutionrelative:ControlDirection\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Data Exercise\\C Project\\ScrollingText\\ControlDirection\\main.cpp",
+              "RelativeDocumentMoniker": "ControlDirection\\main.cpp",
+              "ToolTip": "D:\\Data Exercise\\C Project\\ScrollingText\\ControlDirection\\main.cpp",
+              "RelativeToolTip": "ControlDirection\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T18:48:58.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

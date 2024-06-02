@@ -1,0 +1,10 @@
+D:\Data Exercise\C Project\TetrisGame\x64\Release\sfml-graphics-2.dll
+D:\Data Exercise\C Project\TetrisGame\x64\Release\sfml-window-2.dll
+D:\Data Exercise\C Project\TetrisGame\x64\Release\sfml-system-2.dll
+D:\Data Exercise\C Project\TetrisGame\x64\Release\freetype.dll
+D:\Data Exercise\C Project\TetrisGame\x64\Release\zlib1.dll
+D:\Data Exercise\C Project\TetrisGame\x64\Release\bz2.dll
+D:\Data Exercise\C Project\TetrisGame\x64\Release\libpng16.dll
+D:\Data Exercise\C Project\TetrisGame\x64\Release\brotlidec.dll
+D:\Data Exercise\C Project\TetrisGame\x64\Release\brotlicommon.dll
+D:\Data Exercise\C Project\TetrisGame\TetrisGame\x64\Release\TetrisGa.2FB70A14.Up2Date

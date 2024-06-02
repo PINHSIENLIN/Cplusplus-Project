@@ -1,0 +1,62 @@
+﻿  main.cpp
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,81): warning C4244:         with
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,81): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,81): warning C4244:             T=float
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,81): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,81): warning C4244:         and
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,81): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,81): warning C4244:             T=int
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,81): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,51): warning C4244:         with
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,51): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,51): warning C4244:             T=float
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,51): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,51): warning C4244:         and
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,51): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,51): warning C4244:             T=int
+D:\Data Exercise\C Project\SnakeGame\main.cpp(27,51): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,59): warning C4244:         with
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,59): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,59): warning C4244:             T=int
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,59): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,59): warning C4244:         and
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,59): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,59): warning C4244:             T=float
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,59): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,37): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,37): warning C4244:         with
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,37): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,37): warning C4244:             T=int
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,37): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,37): warning C4244:         and
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,37): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,37): warning C4244:             T=float
+D:\Data Exercise\C Project\SnakeGame\main.cpp(139,37): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,60): warning C4244:         with
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,60): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,60): warning C4244:             T=int
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,60): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,60): warning C4244:         and
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,60): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,60): warning C4244:             T=float
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,60): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,38): warning C4244:         with
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,38): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,38): warning C4244:             T=int
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,38): warning C4244:         ]
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,38): warning C4244:         and
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,38): warning C4244:         [
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,38): warning C4244:             T=float
+D:\Data Exercise\C Project\SnakeGame\main.cpp(151,38): warning C4244:         ]
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 155 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SnakeGame.vcxproj -> D:\Data Exercise\C Project\SnakeGame\x64\Release\SnakeGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

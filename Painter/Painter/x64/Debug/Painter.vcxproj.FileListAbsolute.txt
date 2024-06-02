@@ -1,0 +1,10 @@
+D:\Data Exercise\C Project\Painter\x64\Debug\sfml-graphics-d-2.dll
+D:\Data Exercise\C Project\Painter\x64\Debug\sfml-window-d-2.dll
+D:\Data Exercise\C Project\Painter\x64\Debug\sfml-system-d-2.dll
+D:\Data Exercise\C Project\Painter\x64\Debug\freetyped.dll
+D:\Data Exercise\C Project\Painter\x64\Debug\zlibd1.dll
+D:\Data Exercise\C Project\Painter\x64\Debug\bz2d.dll
+D:\Data Exercise\C Project\Painter\x64\Debug\libpng16d.dll
+D:\Data Exercise\C Project\Painter\x64\Debug\brotlidec.dll
+D:\Data Exercise\C Project\Painter\x64\Debug\brotlicommon.dll
+D:\Data Exercise\C Project\Painter\Painter\x64\Debug\Painter.vcxproj.Up2Date
